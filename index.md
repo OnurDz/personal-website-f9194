@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Onur Demirezen
     subtitle: >-
-      Hello, I'm Onur, a soon-to-be graduated senior CS student in TOBB
+      Hello, I'm Onur, a soon-to-be graduated, senior CS student in TOBB
       University of Economics and Technology, Ankara
     actions:
       - label: LinkedIn
