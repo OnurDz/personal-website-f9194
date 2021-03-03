@@ -11,7 +11,7 @@ sections:
         url: 'https://www.linkedin.com/in/onur-demirezen/'
         style: primary
         new_window: true
-      - label: Contact Us
+      - label: GitHub
         url: /contact
         style: secondary
     align: left
