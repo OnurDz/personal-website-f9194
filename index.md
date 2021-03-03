@@ -16,7 +16,7 @@ sections:
         style: secondary
         new_window: true
     align: left
-    image: images/20210206_164105-02.jpeg
+    image: images/20210206_164105-02_small.jpeg
     image_alt: Hero placeholder image
     image_position: right
     has_background: true
