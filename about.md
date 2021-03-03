@@ -1,5 +1,5 @@
 ---
-title: Who We Are
+title: Who I Am
 sections:
   - type: hero_section
     title: Who We Are
