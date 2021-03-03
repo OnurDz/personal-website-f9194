@@ -8,7 +8,7 @@ sections:
       University of Economics and Technology, Ankara
     actions:
       - label: LinkedIn
-        url: /features
+        url: 'https://www.linkedin.com/in/onur-demirezen/'
         style: primary
       - label: Contact Us
         url: /contact
