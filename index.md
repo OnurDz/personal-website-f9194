@@ -9,7 +9,7 @@ sections:
     actions:
       - label: LinkedIn
         url: 'https://www.linkedin.com/in/onur-demirezen/'
-        style: link
+        style: secondary
         new_window: true
       - label: Contact Us
         url: /contact
