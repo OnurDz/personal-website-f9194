@@ -25,7 +25,7 @@ sections:
       background_image_size: auto
       background_image_repeat: repeat
   - type: features_section
-    title: Features
+    title: Stuff I have done
     features:
       - title: Feature 1
         content: >-
