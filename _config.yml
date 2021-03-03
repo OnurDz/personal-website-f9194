@@ -8,9 +8,6 @@ header:
   title: Starter
   has_nav: true
   nav_links:
-    - label: Features
-      url: /features
-      style: link
     - label: About
       url: /about
       style: link
