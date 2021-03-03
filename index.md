@@ -83,7 +83,7 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - title: 'Stuff I''m Interested '
+  - title: 'Stuff I''m interested '
     features: []
     type: features_section
 seo:
