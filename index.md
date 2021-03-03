@@ -7,7 +7,7 @@ sections:
       Hello, I'm Onur, a soon-to-be graduated senior CS student in TOBB
       University of Economics and Technology, Ankara
     actions:
-      - label: Learn More
+      - label: LinkedIn
         url: /features
         style: primary
       - label: Contact Us
