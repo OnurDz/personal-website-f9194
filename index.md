@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Onur Demirezen
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Hello, I'm Onur, a soon-to-be graduated senior CS student in TOBB
+      University of Economics and Technology, Ankara
     actions:
       - label: Learn More
         url: /features
