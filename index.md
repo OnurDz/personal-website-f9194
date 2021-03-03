@@ -68,6 +68,9 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
+  - title: Stuff I am interested in
+    features: []
+    type: features_section
   - type: blog_feed_section
     title: What's New
     show_recent: true
@@ -83,9 +86,6 @@ sections:
         style: primary
     has_background: true
     background_color: gray
-  - title: Stuff I am interested in
-    features: []
-    type: features_section
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
