@@ -12,7 +12,7 @@ sections:
         style: primary
         new_window: true
       - label: GitHub
-        url: /contact
+        url: 'https://github.com/OnurDz'
         style: secondary
     align: left
     image: images/hero.svg
