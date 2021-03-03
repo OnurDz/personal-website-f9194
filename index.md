@@ -68,7 +68,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-  - title: Stuff I am interested in
+  - title: Stuff I'm interested in
     features:
       - title: lorem-ipsum
         content: >-
